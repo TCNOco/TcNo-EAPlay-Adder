@@ -1,12 +1,10 @@
-
 <p align="center">
   <a href="https://tcno.co/">
     <img src="/other/Banner.png"></a>
 </p>
 <p align="center">
-  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/TcNobo/TcNo-EAPlay-Adder/total?logo=GitHub&style=flat-square">
   <a href="https://tcno.co/">
-    <img alt="Website" src="/other/img/web.svg" height=20"></a>
+    <img alt="Website" src="/other/web.svg" height=20"></a>
   <a href="https://s.tcno.co/AccSwitcherDiscord">
     <img alt="Discord server" src="https://img.shields.io/discord/217649733915770880?label=Discord&logo=discord&style=flat-square"></a>
   <a href="https://twitter.com/TcNobo">
